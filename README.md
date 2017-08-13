@@ -1,5 +1,9 @@
 # Buffalo Workshop
 
+<p align="center">
+  <img src="buffalo.png" height="300px" alt="buffalo logo"/>
+</p>
+
 ## Guía de Contenido
 
 1. Prework
@@ -10,8 +14,6 @@
 6. Building and compiling
 7. Deployment a Heroku
 
-<p align="center">
-  <img src="buffalo.png" height="300px" alt="buffalo logo"/>
-</p>
-
 Las diapositivas para las secciones las puedes encontrar [aquí](https://github.com/gophers-mty/buffalo-workshop/blob/master/slides.pdf)
+
+Tanto el material como el contenido de este taller están basados en el workshop [Buffalo: Rapid web development with go](https://www.gophercon.com/workshops) impartido por [Mark Bates](https://twitter.com/markbates) 
