@@ -1,14 +1,19 @@
 # Buffalo Workshop
 
-## Guía de Contenido
-
-1. Introducción al ecosistema Buffalo
-2. Creación de una aplicación rápida
-3. Trabajando con CRUD's
-4. Formas y modelos
-5. Building and compiling
-6. Deployment a Heroku
-
 <p align="center">
   <img src="buffalo.png" height="300px" alt="buffalo logo"/>
 </p>
+
+## Guía de Contenido
+
+1. Prework
+2. Introducción al ecosistema Buffalo
+3. Creación de una aplicación rápida
+4. Trabajando con CRUD's
+5. Formas y modelos
+6. Building and compiling
+7. Deployment a Heroku
+
+Las diapositivas para las secciones las puedes encontrar [aquí](https://github.com/gophers-mty/buffalo-workshop/blob/master/slides.pdf)
+
+Tanto el material como el contenido de este taller están basados en el workshop [Buffalo: Rapid web development with go](https://www.gophercon.com/workshops) impartido por [Mark Bates](https://twitter.com/markbates) 
