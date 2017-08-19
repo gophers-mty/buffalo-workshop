@@ -11,8 +11,7 @@
 3. Creación de una aplicación rápida
 4. Trabajando con CRUD's
 5. Formas y modelos
-6. Building and compiling
-7. Deployment a Heroku
+6. Deployment a Heroku
 
 Las diapositivas para las secciones las puedes encontrar [aquí](https://github.com/gophers-mty/buffalo-workshop/blob/master/slides.pdf)
 
