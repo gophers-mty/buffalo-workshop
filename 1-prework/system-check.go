@@ -17,5 +17,5 @@ func main() {
 	if !strings.Contains(path, gobin) {
 		log.Fatalf("Your PATH does not contain %s", gobin)
 	}
-	log.Println("Sucess!")
+	log.Println("Success!")
 }
